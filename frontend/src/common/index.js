@@ -1,4 +1,4 @@
-const backendDomin = "http://localhost:8080"
+const backendDomin = "https://vibecart-liyzm50si-tushars-projects-9db50022.vercel.app/"
 
 const SummaryApi = {
     signUP : {
