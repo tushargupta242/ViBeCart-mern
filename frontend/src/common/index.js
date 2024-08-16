@@ -1,4 +1,4 @@
-const backendDomin = "https://vibecart-liyzm50si-tushars-projects-9db50022.vercel.app"
+const backendDomin = "https://vibecart-flax.vercel.app"
 
 const SummaryApi = {
     signUP : {
